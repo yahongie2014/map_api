@@ -277,12 +277,6 @@
         controlText.style.paddingLeft = '4px';
         controlText.style.paddingRight = '4px';
 
-        // Add the text
-        controlText.innerHTML = '<b>Signs</b><br />' +
-            '<img src="driver_available.png" style="height:25px;"/> Available<br />' +
-        '<img src="driver_on_trip.png" style="height:25px;"/> On a Trip <br />' +
-        '<img src="driver_not_approved.png" style="height:25px;"/> Offline<br />'
-        controlUI.appendChild(controlText);
     }
     google.maps.event.addDomListener(window, 'load', load('', ''));
 
