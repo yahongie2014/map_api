@@ -1,0 +1,6 @@
+<markers>
+<marker name="Ahmed" client_name="Ahmed" contact="+20109495655" amount="0" lat="29.99" lng="31.27" id="1" type="driver_on_trip" link="https://www.google.com.eg/maps/dir/29.99,31.27/@30.0405978,31.3628039,12"/>
+<marker name="Mohamed" client_name="Mohamed" contact="+201055191455" amount="0" lat="31.27" lng="29.99" id="2" type="driver_free" link="https://www.google.com.eg/maps/dir/29.99,31.27/@30.0405978,31.3628039,12"/>
+<marker name="Gergawy" client_name="Gergawy" contact="+2010551432355" amount="0" lat="29.96" lng="31.22" id="3" type="driver_free" link="https://www.google.com.eg/maps/dir/29.99,31.27/@30.0405978,31.3628039,12"/>
+<marker name="Hamdy" client_name="Hamdy" contact="+20109491455" amount="0" lat="29.99" lng="31.27" id="1" type="client_pay_done" link="https://www.google.com.eg/maps/dir/29.99,31.27/@30.0405978,31.3628039,12"/>
+</markers>
