@@ -36,7 +36,7 @@
     <input type="hidden" name="longitude" id="longitude">
 </div>
 <!-- map page js starts -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBFPJ5HMaVHSQyGTLdNbBcavs2Cty7yizE&libraries=places"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCYrS7zC_kUHI9ovO-0cryqD4_VuLsYeo&libraries=places"></script>
 <script type="text/javascript">
 
     var popup_pin = "";
